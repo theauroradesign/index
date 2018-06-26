@@ -2952,6 +2952,13 @@ body {
     width: 100% !important;
   }
 }
+.cid-qW2YCdplI7 {
+  background: linear-gradient(45deg, #fbac7f, #f73616);
+}
+.cid-qW2YCdplI7 .mbr-section-subtitle {
+  font-style: italic;
+  letter-spacing: 1rem;
+}
 .cid-qVVuN1kXD4 {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -3023,13 +3030,6 @@ body {
     flex-basis: 100%;
     -webkit-flex-basis: 100%;
   }
-}
-.cid-qW2YCdplI7 {
-  background: linear-gradient(45deg, #fbac7f, #f73616);
-}
-.cid-qW2YCdplI7 .mbr-section-subtitle {
-  font-style: italic;
-  letter-spacing: 1rem;
 }
 .cid-qVVvu28M9n {
   padding-top: 60px;
